@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardapio>
+    <prato id="1">
+        <nome>Feijoada</nome>
+        <descricao>Feijoada tradicional brasileira, com feijão preto, carnes variadas e acompanhamentos.</descricao>
+        <ingredientes>Feijão preto, carne de porco, carne bovina, arroz, couve, laranja, farofa, torresmo.</ingredientes>
+        <preco>49.90</preco>
+        <calorias>950</calorias>
+        <tempo_preparo>120 minutos</tempo_preparo>
+    </prato>
+    <prato id="2">
+        <nome>Moqueca de Peixe</nome>
+        <descricao>Moqueca baiana com peixe fresco, leite de coco e azeite de dendê.</descricao>
+        <ingredientes>Peixe, leite de coco, azeite de dendê, pimentão, tomate, cebola, coentro, arroz.</ingredientes>
+        <preco>59.90</preco>
+        <calorias>700</calorias>
+        <tempo_preparo>90 minutos</tempo_preparo>
+    </prato>
+    <prato id="3">
+        <nome>Hambúrguer Artesanal</nome>
+        <descricao>Hambúrguer artesanal com carne de primeira, queijo cheddar, alface e molho especial.</descricao>
+        <ingredientes>Carne bovina, queijo cheddar, alface, tomate, cebola roxa, molho especial, pão de hambúrguer.</ingredientes>
+        <preco>32.90</preco>
+        <calorias>650</calorias>
+        <tempo_preparo>20 minutos</tempo_preparo>
+    </prato>
+    <prato id="4">
+        <nome>Risoto de Cogumelos</nome>
+        <descricao>Risoto cremoso com cogumelos frescos e queijo parmesão.</descricao>
+        <ingredientes>Arroz arbóreo, cogumelos frescos, queijo parmesão, caldo de legumes, creme de leite.</ingredientes>
+        <preco>45.90</preco>
+        <calorias>600</calorias>
+        <tempo_preparo>40 minutos</tempo_preparo>
+    </prato>
+    <prato id="5">
+        <nome>Salada Caesar</nome>
+        <descricao>Salada leve com alface, molho Caesar, frango grelhado e croutons.</descricao>
+        <ingredientes>Alface, peito de frango, molho Caesar, croutons, queijo parmesão.</ingredientes>
+        <preco>29.90</preco>
+        <calorias>400</calorias>
+        <tempo_preparo>15 minutos</tempo_preparo>
+    </prato>
+</cardapio>
