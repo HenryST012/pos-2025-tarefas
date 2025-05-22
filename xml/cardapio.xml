@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cardapio SYSTEM "definicoes.dtd">
+
 <cardapio>
-    <prato id="1">
+    <prato id="p1">
         <nome>Feijoada</nome>
         <descricao>Feijoada tradicional brasileira, com feijão preto, carnes variadas e acompanhamentos.</descricao>
         <ingredientes>Feijão preto, carne de porco, carne bovina, arroz, couve, laranja, farofa, torresmo.</ingredientes>
@@ -8,7 +10,7 @@
         <calorias>950</calorias>
         <tempo_preparo>120 minutos</tempo_preparo>
     </prato>
-    <prato id="2">
+    <prato id="p2">
         <nome>Moqueca de Peixe</nome>
         <descricao>Moqueca baiana com peixe fresco, leite de coco e azeite de dendê.</descricao>
         <ingredientes>Peixe, leite de coco, azeite de dendê, pimentão, tomate, cebola, coentro, arroz.</ingredientes>
@@ -16,7 +18,7 @@
         <calorias>700</calorias>
         <tempo_preparo>90 minutos</tempo_preparo>
     </prato>
-    <prato id="3">
+    <prato id="p3">
         <nome>Hambúrguer Artesanal</nome>
         <descricao>Hambúrguer artesanal com carne de primeira, queijo cheddar, alface e molho especial.</descricao>
         <ingredientes>Carne bovina, queijo cheddar, alface, tomate, cebola roxa, molho especial, pão de hambúrguer.</ingredientes>
@@ -24,7 +26,7 @@
         <calorias>650</calorias>
         <tempo_preparo>20 minutos</tempo_preparo>
     </prato>
-    <prato id="4">
+    <prato id="p4">
         <nome>Risoto de Cogumelos</nome>
         <descricao>Risoto cremoso com cogumelos frescos e queijo parmesão.</descricao>
         <ingredientes>Arroz arbóreo, cogumelos frescos, queijo parmesão, caldo de legumes, creme de leite.</ingredientes>
@@ -32,7 +34,7 @@
         <calorias>600</calorias>
         <tempo_preparo>40 minutos</tempo_preparo>
     </prato>
-    <prato id="5">
+    <prato id="p5">
         <nome>Salada Caesar</nome>
         <descricao>Salada leve com alface, molho Caesar, frango grelhado e croutons.</descricao>
         <ingredientes>Alface, peito de frango, molho Caesar, croutons, queijo parmesão.</ingredientes>
