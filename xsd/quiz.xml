@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="quiz.xsd"
+      versao="1.0">
+
+    <disciplina>Conhecimentos Gerais</disciplina>
+
+    <professor>
+        <nome>Thierry Henry</nome>
+        <matrícula>20221181110014</matrícula>
+    </professor>
+
+    <turma>4º Ano - Infoweb</turma>
+
+    <data>2025-05-30</data>
+
+    <questões>
+        <questão>
+            <enunciado>Quantos gols Cristiano Ronaldo tem na carreira, aproximadamente, até 2025?</enunciado>
+            <pontuação>1</pontuação>
+            <alternativas>
+                <alternativa correta="nao">550</alternativa>
+                <alternativa correta="nao">700</alternativa>
+                <alternativa correta="sim">930</alternativa>
+                <alternativa correta="nao">1000</alternativa>
+            </alternativas>
+        </questão>
+
+        <questão>
+            <enunciado>Onde fica localizada a Guiana Francesa?</enunciado>
+            <pontuação>1</pontuação>
+            <alternativas>
+                <alternativa correta="nao">América do Norte</alternativa>
+                <alternativa correta="sim">América do Sul</alternativa>
+                <alternativa correta="nao">Europa</alternativa>
+                <alternativa correta="nao">África</alternativa>
+            </alternativas>
+        </questão>
+
+        <questão>
+            <enunciado>Qual é o maior planeta do sistema solar?</enunciado>
+            <pontuação>1</pontuação>
+            <alternativas>
+                <alternativa correta="nao">Terra</alternativa>
+                <alternativa correta="sim">Júpiter</alternativa>
+                <alternativa correta="nao">Saturno</alternativa>
+                <alternativa correta="nao">Marte</alternativa>
+            </alternativas>
+        </questão>
+
+        <questão>
+            <enunciado>Qual é o país com o maior território do mundo?</enunciado>
+            <pontuação>1</pontuação>
+            <alternativas>
+                <alternativa correta="sim">Russia</alternativa>
+                <alternativa correta="nao">Brasil</alternativa>
+                <alternativa correta="nao">China</alternativa>
+                <alternativa correta="nao">India</alternativa>
+            </alternativas>
+        </questão>
+
+        <questão>
+            <enunciado>Qual é a capital do Japão?</enunciado>
+            <pontuação>1</pontuação>
+            <alternativas>
+                <alternativa correta="sim">Tóquio</alternativa>
+                <alternativa correta="nao">Kyoto</alternativa>
+                <alternativa correta="nao">Osaka</alternativa>
+                <alternativa correta="nao">Hiroshima</alternativa>
+            </alternativas>
+        </questão>
+    </questões>
+</quiz>
