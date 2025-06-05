@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardapio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="cardapio.xsd">
+
+  <prato id="1">
+    <nome>Feijoada</nome>
+    <descricao>Feijoada tradicional brasileira, com feijão preto, carnes variadas e acompanhamentos.</descricao>
+    <ingredientes>
+      <ingrediente>Feijão preto</ingrediente>
+      <ingrediente>Carne de porco</ingrediente>
+      <ingrediente>Carne bovina</ingrediente>
+      <ingrediente>Arroz</ingrediente>
+      <ingrediente>Couve</ingrediente>
+      <ingrediente>Laranja</ingrediente>
+      <ingrediente>Farofa</ingrediente>
+      <ingrediente>Torresmo</ingrediente>
+    </ingredientes>
+    <preco>49.90</preco>
+    <calorias>950</calorias>
+    <tempoPreparo>120 minutos</tempoPreparo>
+  </prato>
+
+  <prato id="2">
+    <nome>Moqueca de Peixe</nome>
+    <descricao>Moqueca baiana com peixe fresco, leite de coco e azeite de dendê.</descricao>
+    <ingredientes>
+      <ingrediente>Peixe</ingrediente>
+      <ingrediente>Leite de coco</ingrediente>
+      <ingrediente>Azeite de dendê</ingrediente>
+      <ingrediente>Pimentão</ingrediente>
+      <ingrediente>Tomate</ingrediente>
+      <ingrediente>Cebola</ingrediente>
+      <ingrediente>Coentro</ingrediente>
+      <ingrediente>Arroz</ingrediente>
+    </ingredientes>
+    <preco>59.90</preco>
+    <calorias>700</calorias>
+    <tempoPreparo>90 minutos</tempoPreparo>
+  </prato>
+
+  <prato id="3">
+    <nome>Hambúrguer Artesanal</nome>
+    <descricao>Hambúrguer artesanal com carne de primeira, queijo cheddar, alface e molho especial.</descricao>
+    <ingredientes>
+      <ingrediente>Carne bovina</ingrediente>
+      <ingrediente>Queijo cheddar</ingrediente>
+      <ingrediente>Alface</ingrediente>
+      <ingrediente>Tomate</ingrediente>
+      <ingrediente>Cebola roxa</ingrediente>
+      <ingrediente>Molho especial</ingrediente>
+      <ingrediente>Pão de hambúrguer</ingrediente>
+    </ingredientes>
+    <preco>32.90</preco>
+    <calorias>650</calorias>
+    <tempoPreparo>20 minutos</tempoPreparo>
+  </prato>
+
+  <prato id="4">
+    <nome>Risoto de Cogumelos</nome>
+    <descricao>Risoto cremoso com cogumelos frescos e queijo parmesão.</descricao>
+    <ingredientes>
+      <ingrediente>Arroz arbóreo</ingrediente>
+      <ingrediente>Cogumelos frescos</ingrediente>
+      <ingrediente>Queijo parmesão</ingrediente>
+      <ingrediente>Caldo de legumes</ingrediente>
+      <ingrediente>Creme de leite</ingrediente>
+    </ingredientes>
+    <preco>45.90</preco>
+    <calorias>600</calorias>
+    <tempoPreparo>40 minutos</tempoPreparo>
+  </prato>
+
+  <prato id="5">
+    <nome>Salada Caesar</nome>
+    <descricao>Salada leve com alface, molho Caesar, frango grelhado e croutons.</descricao>
+    <ingredientes>
+      <ingrediente>Alface</ingrediente>
+      <ingrediente>Peito de frango</ingrediente>
+      <ingrediente>Molho Caesar</ingrediente>
+      <ingrediente>Croutons</ingrediente>
+      <ingrediente>Queijo parmesão</ingrediente>
+    </ingredientes>
+    <preco>29.90</preco>
+    <calorias>400</calorias>
+    <tempoPreparo>15 minutos</tempoPreparo>
+  </prato>
+
+</cardapio>
