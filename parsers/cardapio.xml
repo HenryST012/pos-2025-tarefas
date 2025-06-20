@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardapio>
+    <prato id="1">
+        <nome>Feijoada</nome>
+        <descricao>Feijoada tradicional brasileira, com feijão preto, carnes variadas e acompanhamentos.</descricao>
+        <ingredientes>
+            <ingrediente>Feijão preto</ingrediente>
+            <ingrediente>Carne de porco</ingrediente>
+            <ingrediente>Carne bovina</ingrediente>
+            <ingrediente>Arroz</ingrediente>
+            <ingrediente>Couve</ingrediente>
+            <ingrediente>Laranja</ingrediente>
+            <ingrediente>Farofa</ingrediente>
+            <ingrediente>Torresmo</ingrediente>
+        </ingredientes>
+        <preco>R$49,90</preco>
+        <calorias>950</calorias>
+        <tempoPreparo>120 minutos</tempoPreparo>
+    </prato>
+    <prato id="2">
+        <nome>Moqueca de Peixe</nome>
+        <descricao>Moqueca baiana com peixe fresco, leite de coco e azeite de dendê.</descricao>
+        <ingredientes>
+            <ingrediente>Peixe</ingrediente>
+            <ingrediente>Leite de coco</ingrediente>
+            <ingrediente>Azeite de dendê</ingrediente>
+            <ingrediente>Pimentão</ingrediente>
+            <ingrediente>Tomate</ingrediente>
+            <ingrediente>Cebola</ingrediente>
+            <ingrediente>Coentro</ingrediente>
+            <ingrediente>Arroz</ingrediente>
+        </ingredientes>
+        <preco>R$59,90</preco>
+        <calorias>700</calorias>
+        <tempoPreparo>90 minutos</tempoPreparo>
+    </prato>
+    <prato id="3">
+        <nome>Hambúrguer Artesanal</nome>
+        <descricao>Hambúrguer artesanal com carne de primeira, queijo cheddar, alface e molho especial.</descricao>
+        <ingredientes>
+            <ingrediente>Carne bovina</ingrediente>
+            <ingrediente>Queijo cheddar</ingrediente>
+            <ingrediente>Alface</ingrediente>
+            <ingrediente>Tomate</ingrediente>
+            <ingrediente>Cebola roxa</ingrediente>
+            <ingrediente>Molho especial</ingrediente>
+            <ingrediente>Pão de hambúrguer</ingrediente>
+        </ingredientes>
+        <preco>R$32,90</preco>
+        <calorias>650</calorias>
+        <tempoPreparo>20 minutos</tempoPreparo>
+    </prato>
+</cardapio>
