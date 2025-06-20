@@ -1,0 +1,67 @@
+{
+    "quiz": {
+      "versao": "1.0",
+      "disciplina": "Conhecimentos Gerais",
+      "professor": {
+        "nome": "Thierry Henry",
+        "matrícula": "20221181110014"
+      },
+      "turma": "4º Ano - Infoweb",
+      "data": "2025-05-30",
+      "questoes": {
+        "questao": [
+          {
+            "enunciado": "Quantos gols Cristiano Ronaldo tem na carreira, aproximadamente, até 2025?",
+            "pontuacao": "1",
+            "alternativas": [
+              { "correta": "nao", "texto": "550" },
+              { "correta": "nao", "texto": "700" },
+              { "correta": "sim", "texto": "930" },
+              { "correta": "nao", "texto": "1000" }
+            ]
+          },
+          {
+            "enunciado": "Onde fica localizada a Guiana Francesa?",
+            "pontuacao": "1",
+            "alternativas": [
+              { "correta": "nao", "texto": "América do Norte" },
+              { "correta": "sim", "texto": "América do Sul" },
+              { "correta": "nao", "texto": "Europa" },
+              { "correta": "nao", "texto": "África" }
+            ]
+          },
+          {
+            "enunciado": "Qual é o maior planeta do sistema solar?",
+            "pontuacao": "1",
+            "alternativas": [
+              { "correta": "nao", "texto": "Terra" },
+              { "correta": "sim", "texto": "Júpiter" },
+              { "correta": "nao", "texto": "Saturno" },
+              { "correta": "nao", "texto": "Marte" }
+            ]
+          },
+          {
+            "enunciado": "Qual é o país com o maior território do mundo?",
+            "pontuacao": "1",
+            "alternativas": [
+              { "correta": "sim", "texto": "Russia" },
+              { "correta": "nao", "texto": "Brasil" },
+              { "correta": "nao", "texto": "China" },
+              { "correta": "nao", "texto": "India" }
+            ]
+          },
+          {
+            "enunciado": "Qual é a capital do Japão?",
+            "pontuacao": "1",
+            "alternativas": [
+              { "correta": "sim", "texto": "Tóquio" },
+              { "correta": "nao", "texto": "Kyoto" },
+              { "correta": "nao", "texto": "Osaka" },
+              { "correta": "nao", "texto": "Hiroshima" }
+            ]
+          }
+        ]
+      }
+    }
+  }
+  

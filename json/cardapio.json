@@ -1,0 +1,52 @@
+{
+    "cardapio": {
+      "prato": [
+        {
+          "id": "p1",
+          "nome": "Feijoada",
+          "descricao": "Feijoada tradicional brasileira, com feijão preto, carnes variadas e acompanhamentos.",
+          "ingredientes": "Feijão preto, carne de porco, carne bovina, arroz, couve, laranja, farofa, torresmo.",
+          "preco": "49.90",
+          "calorias": "950",
+          "tempo_preparo": "120 minutos"
+        },
+        {
+          "id": "p2",
+          "nome": "Moqueca de Peixe",
+          "descricao": "Moqueca baiana com peixe fresco, leite de coco e azeite de dendê.",
+          "ingredientes": "Peixe, leite de coco, azeite de dendê, pimentão, tomate, cebola, coentro, arroz.",
+          "preco": "59.90",
+          "calorias": "700",
+          "tempo_preparo": "90 minutos"
+        },
+        {
+          "id": "p3",
+          "nome": "Hambúrguer Artesanal",
+          "descricao": "Hambúrguer artesanal com carne de primeira, queijo cheddar, alface e molho especial.",
+          "ingredientes": "Carne bovina, queijo cheddar, alface, tomate, cebola roxa, molho especial, pão de hambúrguer.",
+          "preco": "32.90",
+          "calorias": "650",
+          "tempo_preparo": "20 minutos"
+        },
+        {
+          "id": "p4",
+          "nome": "Risoto de Cogumelos",
+          "descricao": "Risoto cremoso com cogumelos frescos e queijo parmesão.",
+          "ingredientes": "Arroz arbóreo, cogumelos frescos, queijo parmesão, caldo de legumes, creme de leite.",
+          "preco": "45.90",
+          "calorias": "600",
+          "tempo_preparo": "40 minutos"
+        },
+        {
+          "id": "p5",
+          "nome": "Salada Caesar",
+          "descricao": "Salada leve com alface, molho Caesar, frango grelhado e croutons.",
+          "ingredientes": "Alface, peito de frango, molho Caesar, croutons, queijo parmesão.",
+          "preco": "29.90",
+          "calorias": "400",
+          "tempo_preparo": "15 minutos"
+        }
+      ]
+    }
+  }
+  
