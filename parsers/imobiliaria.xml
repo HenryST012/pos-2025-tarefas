@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imobiliaria>
+    <imovel>
+        <descricao>Apartamento de 3 quartos com varanda</descricao>
+        <proprietario>
+            <nome>João da Silva</nome>
+            <telefone>11999990000</telefone>
+            <telefone>11888887777</telefone>
+            <email>joao.silva@email.com</email>
+        </proprietario>
+        <endereco>
+            <rua>Rua das Flores</rua>
+            <bairro>Jardins</bairro>
+            <cidade>São Paulo</cidade>
+            <numero>123</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>85m²</tamanho>
+            <numQuartos>3</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>850000</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>Casa térrea com quintal amplo</descricao>
+        <proprietario>
+            <nome>Maria Oliveira</nome>
+            <telefone>21912345678</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua do Sol</rua>
+            <bairro>Centro</bairro>
+            <cidade>Rio de Janeiro</cidade>
+            <numero>45</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>120m²</tamanho>
+            <numQuartos>4</numQuartos>
+            <numBanheiros>3</numBanheiros>
+        </caracteristicas>
+        <valor>1250000</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>Kitnet mobiliada próxima à universidade</descricao>
+        <proprietario>
+            <nome>Lucas Lima</nome>
+            <email>lucaslima@email.com</email>
+        </proprietario>
+        <endereco>
+            <rua>Av. Universitária</rua>
+            <bairro>Vila Nova</bairro>
+            <cidade>Campinas</cidade>
+            <numero>789</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>30m²</tamanho>
+            <numQuartos>1</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>190000</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>Sobrado com garagem para 3 carros</descricao>
+        <proprietario>
+            <nome>Ana Beatriz</nome>
+            <telefone>11987654321</telefone>
+            <email>ana.b@email.com</email>
+        </proprietario>
+        <endereco>
+            <rua>Rua Alameda Azul</rua>
+            <bairro>Parque Verde</bairro>
+            <cidade>São Bernardo do Campo</cidade>
+            </endereco>
+        <caracteristicas>
+            <tamanho>160m²</tamanho>
+            <numQuartos>3</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>980000</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>Apartamento compacto em região central</descricao>
+        <proprietario>
+            <nome>Carlos Pereira</nome>
+            <telefone>31987654321</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua Minas Gerais</rua>
+            <bairro>Funcionários</bairro>
+            <cidade>Belo Horizonte</cidade>
+            <numero>200</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>45m²</tamanho>
+            <numQuartos>2</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>520000</valor>
+    </imovel>
+</imobiliaria>

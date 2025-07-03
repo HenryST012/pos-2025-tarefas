@@ -1,0 +1,111 @@
+[
+    {
+        "descricao": "Apartamento de 3 quartos com varanda",
+        "proprietario": {
+            "nome": "João da Silva",
+            "telefones": [
+                "11999990000",
+                "11888887777"
+            ],
+            "email": "joao.silva@email.com"
+        },
+        "endereco": {
+            "rua": "Rua das Flores",
+            "bairro": "Jardins",
+            "cidade": "São Paulo",
+            "numero": "123"
+        },
+        "caracteristicas": {
+            "tamanho": "85m²",
+            "numQuartos": 3,
+            "numBanheiros": 2
+        },
+        "valor": 850000
+    },
+    {
+        "descricao": "Casa térrea com quintal amplo",
+        "proprietario": {
+            "nome": "Maria Oliveira",
+            "telefones": [
+                "21912345678"
+            ],
+            "email": null
+        },
+        "endereco": {
+            "rua": "Rua do Sol",
+            "bairro": "Centro",
+            "cidade": "Rio de Janeiro",
+            "numero": "45"
+        },
+        "caracteristicas": {
+            "tamanho": "120m²",
+            "numQuartos": 4,
+            "numBanheiros": 3
+        },
+        "valor": 1250000
+    },
+    {
+        "descricao": "Kitnet mobiliada próxima à universidade",
+        "proprietario": {
+            "nome": "Lucas Lima",
+            "telefones": [],
+            "email": "lucaslima@email.com"
+        },
+        "endereco": {
+            "rua": "Av. Universitária",
+            "bairro": "Vila Nova",
+            "cidade": "Campinas",
+            "numero": "789"
+        },
+        "caracteristicas": {
+            "tamanho": "30m²",
+            "numQuartos": 1,
+            "numBanheiros": 1
+        },
+        "valor": 190000
+    },
+    {
+        "descricao": "Sobrado com garagem para 3 carros",
+        "proprietario": {
+            "nome": "Ana Beatriz",
+            "telefones": [
+                "11987654321"
+            ],
+            "email": "ana.b@email.com"
+        },
+        "endereco": {
+            "rua": "Rua Alameda Azul",
+            "bairro": "Parque Verde",
+            "cidade": "São Bernardo do Campo",
+            "numero": null
+        },
+        "caracteristicas": {
+            "tamanho": "160m²",
+            "numQuartos": 3,
+            "numBanheiros": 2
+        },
+        "valor": 980000
+    },
+    {
+        "descricao": "Apartamento compacto em região central",
+        "proprietario": {
+            "nome": "Carlos Pereira",
+            "telefones": [
+                "31987654321"
+            ],
+            "email": null
+        },
+        "endereco": {
+            "rua": "Rua Minas Gerais",
+            "bairro": "Funcionários",
+            "cidade": "Belo Horizonte",
+            "numero": "200"
+        },
+        "caracteristicas": {
+            "tamanho": "45m²",
+            "numQuartos": 2,
+            "numBanheiros": 1
+        },
+        "valor": 520000
+    }
+]
